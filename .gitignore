@@ -1,0 +1,5 @@
+# Virtual environment folder ko ignore karein
+.venv/
+
+# Environment variables file ko ignore karein (bohat zaroori!)
+.env
